@@ -432,6 +432,7 @@ margin-bottom:70px;
 
 /*  Projects fin */
 /*animation*/
+#animation, #slider{width:100%;}
 #slider {
   position: relative;
   overflow: hidden;
@@ -453,7 +454,7 @@ margin-bottom:70px;
   float: left;
   margin: auto;
   padding: 0;
-  width: 500px;
+  width: 200px;
   height: 300px;
   text-align: center;
   line-height: 300px;
@@ -607,3 +608,6 @@ h5{color:white!important;}
 h1{text-align:center;
 font-family: 'Roboto', sans-serif;}
 p{text-align: center;}
+
+
+  
