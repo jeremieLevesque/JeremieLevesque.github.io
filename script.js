@@ -12,7 +12,7 @@ let heroSwiper = new Swiper('.heroSwiper', {
             slidesPerView: 2,
             spaceBetweenSlides: 40
         }
-    }
+    },
     autoplay: {
       delay: 2500,
       disableOnInteraction: true,
