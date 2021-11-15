@@ -1,18 +1,7 @@
 let heroSwiper = new Swiper('.heroSwiper', {
     slidesPerView: 1,
     spaceBetween: 0,
-    breakpoints: {
-        // when window width is <= 499px
-        768: {
-            slidesPerView: 1,
-            spaceBetweenSlides: 30
-        },
-        // when window width is <= 999px
-        1200: {
-            slidesPerView: 2,
-            spaceBetweenSlides: 40
-        }
-    },
+    
     autoplay: {
       delay: 2500,
       disableOnInteraction: true,
